@@ -1,0 +1,22 @@
+<div class="container">
+
+
+  <app-navbar></app-navbar>
+
+  <div class="row">
+    <div class="col-md-6">
+      <app-dialogflow></app-dialogflow>
+    </div>
+    <div class="col-md-6">
+      <div class="card">
+        <div *ngFor="let item of resourcesArr">
+          Grade: {{item.grade}} - Subject: {{item.subject}} - Part: {{item.part}}
+          <a [href]="item.link">Download here</a>
+          <br>
+          <br>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,22 @@
+<div class="container">
+  <app-navbar></app-navbar>
+  <div class="row">
+    <div class="col-md-6">
+      <app-dialogflow></app-dialogflow>
+    </div>
+    <div class="col-md-6">
+      <div class="card" *ngIf="!flag">
+        <h3>Stats</h3>
+        <div *ngFor="let s of stats">
+          <p> Subject: {{s.subject}}</p>
+          <p> Date: {{s.date}}</p>
+          <p>Your Score: {{s.score}}</p>
+          <p>Max Score: {{s.total}}</p>
+        </div>
+      </div>
+      <div class="card" *ngIf="flag">
+        Please give a test to know your stats.
+      </div>
+    </div>
+  </div>
+</div>

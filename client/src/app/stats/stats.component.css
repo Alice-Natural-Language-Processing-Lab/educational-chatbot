@@ -1,0 +1,48 @@
+.card {
+  margin-top: 150px;
+  width: 60%;
+  z-index: 100;
+  /* background: white; */
+  background-color: rgba(255, 255, 255, 0.7);
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.form-control {
+  /* background: white; */
+  /* background-color: rgba(255, 255, 255, 0.7); */
+  background: none;
+  border: none;
+}
+label {
+  background: none;
+  /* opacity: 1; */
+}
+
+.form-group {
+  border: none;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+input[type="email"], input[type="password"] {
+  /* border-radius: 5px; */
+  border: none;
+  border-bottom: 1px solid gray;
+  /* background: rgba(255, 255, 255, 0.7); */
+  background: none;
+}
+
+hr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: -10px;
+}

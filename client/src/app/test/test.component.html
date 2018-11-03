@@ -1,0 +1,24 @@
+<div class="container">
+  <h3 style="text-align: center">Test</h3>
+    <div *ngIf="questionArray">
+
+      <form [formGroup]="questionsForm" (ngSubmit)="onSubmit()">
+        <div formArrayName="arr">
+          <div *ngFor="let item of questionArray; let i=index " [formGroupName]="i">
+            <label for="question">Q{{i+1}}. {{item.question}}</label>
+            <br>
+            <input type="radio" formControlName="option" [value]="item.option[0]">{{item?.option[0]}}
+            <br>
+            <input type="radio" formControlName="option" [value]="item.option[1]">{{item?.option[1]}}
+            <br>
+            <input type="radio" formControlName="option" [value]="item.option[2]">{{item?.option[2]}}
+            <br>
+            <input type="radio" formControlName="option" [value]="item.option[3]">{{item?.option[3]}}
+            <br>
+          </div>
+        </div>
+        <br>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+    </div>
+  </div>

@@ -1,0 +1,27 @@
+<div class="container">
+  <app-navbar></app-navbar>
+  <div class="row" style="width: 100%">
+    <div class="col-md-6">
+      <app-dialogflow></app-dialogflow>
+    </div>
+    <div class="col-md-6">
+      <form [formGroup]="selectTest" (ngSubmit)="onSubmit()">
+        <div class="form-group">
+          <div class="form-control">
+            <label for="subject"> Select a Subject:
+              <br>
+              <input type="radio" formControlName="subject" value="physics"> Physics
+              <br>
+              <input type="radio" formControlName="subject" value="chemistry"> Chemistry
+              <br>
+              <input type="radio" formControlName="subject" value="math"> Maths
+            </label>
+          </div>
+        </div>
+        <br>
+        <br>
+        <button type="submit" class="btn btn-primary">Next</button>
+      </form>
+    </div>
+  </div>
+</div>

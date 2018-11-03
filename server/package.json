@@ -1,0 +1,31 @@
+{
+  "name": "minor-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "node": "8.9.4",
+    "npm": "6.4.1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "cors": "^2.8.4",
+    "dialogflow": "^0.7.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.0",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.7",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}

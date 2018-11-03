@@ -1,0 +1,14 @@
+.container{
+  font-family: "Verdana, Geneva, sans-serif";
+  width: 100%;
+  font-size: 15px;
+}
+app-dialogflow{
+  display: block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.row{
+  width: 100%;
+}
