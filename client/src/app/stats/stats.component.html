@@ -5,13 +5,22 @@
       <app-dialogflow></app-dialogflow>
     </div>
     <div class="col-md-6">
-      <div class="card" *ngIf="!flag">
+      <div *ngIf="!flag">
         <h3>Stats</h3>
-        <div *ngFor="let s of stats">
-          <p> Subject: {{s.subject}}</p>
+        <div class="card" *ngFor="let s of stats,let i = index">
           <p> Date: {{s.date}}</p>
-          <p>Your Score: {{s.score}}</p>
-          <p>Max Score: {{s.total}}</p>
+          <p> Subject: {{s.subject}}</p>
+          <p> Correct Answers: {{s.nCorrect}}</p>
+          <p> Wrong Answers: {{s.nWrong}}</p>
+          <p> No. of Difficult Questions Correctly Answered: {{s.nDiffCorrect}}</p>
+          <p> No. of Difficult Questions Incorrectly Answered: {{s.nDiffWrong}}</p>
+          <p> No. of Medium Questions Correctly Answered: {{s.nMediumCorrect}}</p>
+          <p> No. of Medium Questions Incorrectly Answered: {{s.nMediumWrong}}</p>
+          <p> No. of Easy Questions Correctly Answered: {{s.nEasyCorrect}}</p>
+          <p> No. of Easy Questions Incorrectly Answered: {{s.nEasyWrong}}</p>
+
+          <p>Your Score: {{score[i]}}</p>
+          <p>Max Score: 6</p>
         </div>
       </div>
       <div class="card" *ngIf="flag">

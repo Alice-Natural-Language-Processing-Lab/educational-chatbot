@@ -1,24 +1,21 @@
-<div class="container">
-  <h3 style="text-align: center">Test</h3>
-    <div *ngIf="questionArray">
+<form class="card" *ngIf="ready" [formGroup]="questionsForm" >
+    <div class="form-group">
+        <div class="form-control form_element">
+            Q. {{question.question}}
+            <br>
 
-      <form [formGroup]="questionsForm" (ngSubmit)="onSubmit()">
-        <div formArrayName="arr">
-          <div *ngFor="let item of questionArray; let i=index " [formGroupName]="i">
-            <label for="question">Q{{i+1}}. {{item.question}}</label>
-            <br>
-            <input type="radio" formControlName="option" [value]="item.option[0]">{{item?.option[0]}}
-            <br>
-            <input type="radio" formControlName="option" [value]="item.option[1]">{{item?.option[1]}}
-            <br>
-            <input type="radio" formControlName="option" [value]="item.option[2]">{{item?.option[2]}}
-            <br>
-            <input type="radio" formControlName="option" [value]="item.option[3]">{{item?.option[3]}}
-            <br>
-          </div>
+            <!--<input class="input_field" type="checkbox" formControlName="option" placeholder="Username"> -->{{option}}
+            <input class="input_field" type="radio" (change)="log()"value="{{question.option[0]}}"
+             formControlName="option"> {{question.option[0]}} <br>
+            <input class="input_field" type="radio" (change)="log()"value="{{question.option[1]}}"
+             formControlName="option"> {{question.option[1]}} <br>
+            <input class="input_field" type="radio" (change)="log()"value="{{question.option[2]}}"
+             formControlName="option"> {{question.option[2]}} <br>
+            <input class="input_field" type="radio" (change)="log()"value="{{question.option[3]}}"
+             formControlName="option"> {{question.option[3]}} <br>
         </div>
-        <br>
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </form>
+        <br> <br> <br>
+        <button class="btn btn-secondary" *ngIf="!IsSubmit" (click)="submitAnswer()" id="submit_button1">Next</button>
     </div>
-  </div>
+    <hr>
+</form>

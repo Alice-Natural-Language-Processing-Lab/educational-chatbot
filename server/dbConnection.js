@@ -12,7 +12,7 @@ mongoose.connect(url, { useNewUrlParser: true }).then(
     () => {
         console.log('connected to db');
     },
-    (err)=> {
+    (err) => {
         throw err;
     }
 );

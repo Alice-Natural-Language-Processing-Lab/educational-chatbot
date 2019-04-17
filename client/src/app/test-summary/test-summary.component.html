@@ -7,17 +7,19 @@
     <div class="col-md-6">
       <h3 style="text-align: center"><b>Summary</b></h3>
       <div *ngFor="let element of questionArray, let i = index">
-        <p><b>Q{{i+1}}. </b> {{element.question}}</p>
-        <p><b>Your Answer:</b>{{element.response}}</p>
-        <p><b>Correct Answer:</b> {{element.answer}}</p>
+        <p><b>Q{{i+1}}. </b> {{element.question.question}}</p>
+        <p *ngFor="let option of element.option, let j = index"><b>Q{{j+1}}. </b> {{option}}</p>
+        <p><b>Your Answer:</b>{{element.selected}}</p>
+        <p><b>Correct Answer:</b> {{element.question.answer}}</p>
+        <p><b>Status:</b> {{element.status}}</p>
+        <p><b>Difficulty Level:</b> {{element.question.difficulty}}</p>
+
         <!-- <br> -->
       </div>
       <hr>
       <div style="text-align: center">
         <h3><b> Results</b> </h3>
-        Your Score:{{ans?.score}}
-        <br>
-        Maximum Score: {{ans?.total}}
+        Your Score:{{score}}
       </div>
     </div>
   </div>

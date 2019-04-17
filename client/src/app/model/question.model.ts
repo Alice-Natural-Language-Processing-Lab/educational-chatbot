@@ -5,5 +5,5 @@ export interface IQuestion {
   option: string[];
   answer: string;
   toggle: boolean[];
-
+  difficulty: number;
 }

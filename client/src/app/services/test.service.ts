@@ -11,12 +11,12 @@ export class TestService {
   constructor(private http: HttpClient) { }
 
   getTest(sub: string): Observable<any> {
-    return this.http.post('http://localhost:8100/tests', {subject: sub});
+    return this.http.post('http://localhost:8100/tests', { subject: sub });
   }
 
-  getScores(questionsArray): Observable<any> {
-    return this.http.post('http://localhost:8100/tests/submit', questionsArray);
-  }
+  // getScores(questionsArray): Observable<any> {
+  //   return this.http.post('http://localhost:8100/tests/submit', questionsArray);
+  // }
 
   setSubject(sub: string) {
     this.subject = sub;
@@ -28,16 +28,25 @@ export class TestService {
     return this.subject;
   }
 
-  getQuestions(): any {
+  getAttemptedQuestions(): any {
     console.log('returning questions as');
     console.log(this.questions);
     return this.questions;
   }
 
-  setQuestions(quest: any) {
+  setAttemptedQuestions(quest: any) {
     this.questions = quest;
     console.log('setting quests to');
     console.log(this.questions);
+  }
+
+  submitTest(obj) {
+    return this.http.post('http://localhost:8100/tests/submit', obj);
+
+  }
+
+  setStats() {
+
   }
 
 }

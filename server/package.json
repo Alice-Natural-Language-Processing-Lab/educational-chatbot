@@ -25,6 +25,7 @@
     "express-validator": "^5.3.0",
     "mongodb": "^3.1.8",
     "mongoose": "^5.3.7",
+    "newsapi": "^2.4.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   }
