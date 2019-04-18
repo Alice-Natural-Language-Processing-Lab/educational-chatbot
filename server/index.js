@@ -3,6 +3,7 @@ const userRouter = require('./routes/userRouter');
 const testsRouter = require('./routes/testsRouter');
 const dialogFlowRouter = require('./routes/dialogFlowRouter');
 const resourceRouter = require('./routes/resourceRouter');
+const intentRouter = require('./routes/intentRouter');
 var cors = require('cors');
 
 
@@ -24,3 +25,4 @@ app.use('/user', userRouter);
 app.use('/tests', testsRouter);
 app.use('/dialogflow', dialogFlowRouter);
 app.use('/resource', resourceRouter);
+app.use('/intent',intentRouter);
