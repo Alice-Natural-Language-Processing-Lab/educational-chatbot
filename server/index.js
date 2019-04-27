@@ -18,7 +18,7 @@ app.listen(port, () => {
 })
 
 app.get('/',function(req,res){
-    res.json('Connected to heroku');
+    res.json('API works');
 })
 
 app.use('/user', userRouter);

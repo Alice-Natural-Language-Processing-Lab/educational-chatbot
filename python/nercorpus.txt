@@ -1,0 +1,1103 @@
+What is absolute zero. IR IR key key.
+Define absorbance. IR key.
+Tell me about abundance. IR IR IR key.
+Describe accuracy. IR key.
+What is acid. IR IR key.
+What is acid anhydride. IR IR key key.
+Define acid dissociation constant. IR key key key.
+Tell me about actinides. IR IR IR key.
+Describe activated complex. IR key key.
+What is activation energy. IR IR key key.
+What is activity series. IR IR key key.
+Define actual yield. IR key key.
+Tell me about acyclic. IR IR IR key.
+Describe addition reaction. IR key key.
+What is adhesion. IR IR key.
+What is aeration. IR IR key.
+Define alcohol. IR key.
+Tell me about aldehyde. IR IR IR key.
+Describe alkali metal. IR key key.
+What is alkaline earth metal. IR IR key key key.
+What is alkane. IR IR key.
+Define alkene. IR key.
+Tell me about alkyl group. IR IR IR key key.
+Describe alkyne. IR key.
+What is allomer. IR IR key.
+What is allotrope. IR IR key.
+Define alloy. IR key.
+Tell me about amalgam. IR IR IR key.
+Describe amplitude. IR key.
+What is analyte. IR IR key.
+What is analytical chemistry. IR IR key key.
+Define anion. IR key.
+Tell me about anode. IR IR IR key.
+Describe aqueous solution. IR key key.
+What is aromaticity. IR IR key.
+What is atom. IR IR key.
+Define atomic mass. IR key key.
+Tell me about atomic mass unit. IR IR IR key key key.
+Describe atomic number. IR key key.
+What is atomic orbital. IR IR key key.
+What is atomic radius. IR IR key key.
+Define atomic weight. IR key key.
+Tell me about average atomic mass. IR IR IR key key key.
+Describe Avogadro's law. IR key key.
+What is Avogadro's number. IR IR key key.
+What is azeotrope. IR IR key.
+Define barometer. IR key.
+Tell me about base. IR IR IR key.
+Describe base anhydride. IR key key.
+What is beaker. IR IR key.
+What is Beer–Lambert law. IR IR key key.
+Define biochemistry. IR key.
+Tell me about Bohr model. IR IR IR key key.
+Describe boiling. IR key.
+What is boiling point. IR IR key key.
+What is boiling-point elevation. IR IR key key.
+Define bond. IR key.
+Tell me about Boyle's law. IR IR IR key key.
+Describe Bragg's law. IR key key.
+What is Brønsted–Lowry acid. IR IR key key.
+What is Brønsted–Lowry acid–base reaction. IR IR key key key.
+Define Brønsted–Lowry base. IR key key.
+Tell me about Büchner flask. IR IR IR key key.
+Describe buckminsterfullerene. IR key.
+What is buffered solution. IR IR key key.
+What is bumping. IR IR key.
+Define bung. IR key.
+Tell me about burette. IR IR IR key.
+Describe calorimeter. IR key.
+What is catalyst. IR IR key.
+What is cathode. IR IR key.
+Define cation. IR key.
+Tell me about centrifugation. IR IR IR key.
+Describe centrifuge. IR key.
+What is cell potential. IR IR key key.
+What is chain reaction. IR IR key key.
+Define charge number. IR key key.
+Tell me about Charles's law. IR IR IR key key.
+Describe chelating agent. IR key key.
+What is chelation. IR IR key.
+What is chemical composition. IR IR key key.
+Define chemical formula. IR key key.
+Tell me about chemical law. IR IR IR key key.
+Describe chemical nomenclature. IR key key.
+What is chemical process. IR IR key key.
+What is chemical reaction. IR IR key key.
+Define chemical species. IR key key.
+Tell me about chemical substance. IR IR IR key key.
+Describe chemistry. IR key.
+What is chirality. IR IR key.
+What is cis–trans isomerism. IR IR key key.
+Define closed system. IR key key.
+Tell me about cohesion. IR IR IR key.
+Describe colligative property. IR key key.
+What is colloid. IR IR key.
+What is combustion. IR IR key.
+Define Commission on Isotopic Abundances and Atomic Weights. IR key key key key key key key.
+Tell me about compression. IR IR IR key.
+Describe compound. IR key.
+What is concentration. IR IR key.
+What is condensation. IR IR key.
+Define condosity. IR key.
+Tell me about conductor. IR IR IR key.
+Describe conformation. IR key.
+What is conjugate acid. IR IR key key.
+What is conjugate base. IR IR key key.
+Define conjugated system. IR key key.
+Tell me about cooling curve. IR IR IR key key.
+Describe coordinate covalent bond. IR key key key.
+What is coordination complex. IR IR key key.
+What is corrosion. IR IR key.
+Define coulomb. IR key.
+Tell me about covalent bond. IR IR IR key key.
+Describe crest. IR key.
+What is critical mass. IR IR key key.
+What is critical point. IR IR key key.
+Define crystal. IR key.
+Tell me about crystallography. IR IR IR key.
+Describe cuvette. IR key.
+What is cyclotron. IR IR key.
+What is d-block. IR IR key.
+Define Dalton's law of partial pressures. IR key key key key key.
+Tell me about deionization. IR IR IR key.
+Describe deliquescence. IR key.
+What is delocalized electron. IR IR key key.
+What is density. IR IR key.
+Define denticity. IR key.
+Tell me about dependent variable. IR IR IR key key.
+Describe deposition. IR key.
+What is Dewar flask. IR IR key key.
+What is diatomic. IR IR key.
+Define diatomic molecule. IR key key.
+Tell me about diffusion. IR IR IR key.
+Describe dimer. IR key.
+What is dipolar bond. IR IR key key.
+What is dipole. IR IR key.
+Define dipole moment. IR key key.
+Tell me about dispersion. IR IR IR key.
+Describe dissociation. IR key.
+What is dissolution. IR IR key.
+What is distillation. IR IR key.
+Define double bond. IR key key.
+Tell me about double-replacement reaction. IR IR IR key key.
+Describe ductility. IR key.
+What is electrolyte. IR IR key.
+What is electrochemical cell. IR IR key key.
+Define electromagnetic radiation. IR key key.
+Tell me about electromagnetic spectrum. IR IR IR key key.
+Describe electromagnetism. IR key.
+What is electromotive force. IR IR key key.
+What is electron. IR IR key.
+Define electron configuration. IR key key.
+Tell me about electron pair. IR IR IR key key.
+Describe electron shell. IR key key.
+What is electronegativity. IR IR key.
+What is electric charge. IR IR key key.
+Define element. IR key.
+Tell me about enantiomer. IR IR IR key.
+Describe enantiomorph. IR key.
+What is endothermic process. IR IR key key.
+What is energy. IR IR key.
+Define enthalpy. IR key.
+Tell me about enthalpy of fusion. IR IR IR key key key.
+Describe entropy. IR key.
+What is environmental chemistry. IR IR key key.
+What is enzyme. IR IR key.
+Define empirical formula. IR key key.
+Tell me about equilibrium. IR IR IR key.
+Describe Erlenmeyer flask. IR key key.
+What is exothermic process. IR IR key key.
+What is extensive property. IR IR key key.
+Define extraction. IR key.
+Tell me about extrinsic property. IR IR IR key key.
+Describe f-block. IR key.
+What is freezing. IR IR key.
+What is Faraday constant. IR IR key key.
+Define Faraday's laws of electrolysis. IR key key key key.
+Tell me about Fick's laws of diffusion. IR IR IR key key key key.
+Describe filtrate. IR key.
+What is first-order reaction. IR IR key key.
+What is flask. IR IR key.
+Define formal charge. IR key key.
+Tell me about fractional distillation. IR IR IR key key.
+Describe free radical. IR key key.
+What is freezing-point depression. IR IR key key.
+What is frequency. IR IR key.
+Define functional group. IR key key.
+Tell me about galvanic cell. IR IR IR key key.
+Describe gas. IR key.
+What is gas chromatography. IR IR key key.
+What is Gay-Lussac's law. IR IR key key.
+Define geochemistry. IR key.
+Tell me about Gibbs energy. IR IR IR key key.
+Describe glass. IR key.
+What is gram-atom. IR IR key.
+What is Grignard reaction. IR IR key key.
+Define ground glass joint. IR key key key.
+Tell me about group. IR IR IR key.
+Describe halogen. IR key.
+What is hadron. IR IR key.
+What is heat. IR IR key.
+Define heat of fusion. IR key key key.
+Tell me about Henry's law. IR IR IR key key.
+Describe Hess's law. IR key key.
+What is Hund's rules. IR IR key key.
+What is hydrate. IR IR key.
+Define hydration reaction. IR key key.
+Tell me about hydrogen. IR IR IR key.
+Describe hydrogen bond. IR key key.
+What is hydrogenation. IR IR key.
+What is hydrolysis. IR IR key.
+Define hygroscopy. IR key.
+Tell me about ideal gas. IR IR IR key key.
+Describe ideal gas constant. IR key key key.
+What is ideal gas law. IR IR key key key.
+What is independent variable. IR IR key key.
+Define indicator. IR key.
+Tell me about induced radioactivity. IR IR IR key key.
+Describe inorganic compound. IR key key.
+What is inorganic chemistry. IR IR key key.
+What is insulator. IR IR key.
+Define intensive property. IR key key.
+Tell me about intermediate. IR IR IR key.
+Describe intermolecular force. IR key key.
+What is International System of Units. IR IR key key key key.
+What is International Union of Pure and Applied Chemistry. IR IR key key key key key key key.
+Define intramolecular force. IR key key.
+Tell me about intrinsic property. IR IR IR key key.
+Describe ion. IR key.
+What is ionic bond. IR IR key key.
+What is ionization. IR IR key.
+Define isoelectronicity. IR key.
+Tell me about isomer. IR IR IR key.
+Describe isomerization. IR key.
+What is isotope. IR IR key.
+What is joule. IR IR key.
+Define kelvin. IR key.
+Tell me about ketone. IR IR IR key.
+Describe kinetics. IR key.
+What is kinetic energy. IR IR key key.
+What is lanthanides. IR IR key.
+Define lattice. IR key.
+Tell me about lattice energy. IR IR IR key key.
+Describe law of conservation of energy. IR key key key key key.
+What is law of conservation of mass. IR IR key key key key key.
+What is law of multiple proportions. IR IR key key key key.
+Define laws of thermodynamics. IR key key key.
+Tell me about leveling effect. IR IR IR key key.
+Describe Lewis acid. IR key key.
+What is Lewis base. IR IR key key.
+What is Lewis structure. IR IR key key.
+Define ligand. IR key.
+Tell me about light. IR IR IR key.
+Describe liquefaction. IR key.
+What is liquid. IR IR key.
+What is London dispersion forces. IR IR key key key.
+Define Newton's laws of motion. IR key key key key.
+Tell me about magnetic quantum number. IR IR IR key key key.
+Describe malleability. IR key.
+What is manometer. IR IR key.
+What is mass. IR IR key.
+Define mass concentration. IR key key.
+Tell me about mass fraction. IR IR IR key key.
+Describe mass number. IR key key.
+What is mass spectrometry. IR IR key key.
+What is matter. IR IR key.
+Define metal. IR key.
+Tell me about melting. IR IR IR key.
+Describe melting point. IR key key.
+What is metalloid. IR IR key.
+What is methylene blue. IR IR key key.
+Define microcentrifuge tube. IR key key.
+Tell me about mineral. IR IR IR key.
+Describe miscibility. IR key.
+What is mixture. IR IR key.
+What is moiety. IR IR key.
+Define molality. IR key.
+Tell me about molar attenuation coefficient. IR IR IR key key key.
+Describe molar mass. IR key key.
+What is molarity. IR IR key.
+What is mole. IR IR key.
+Define molecular formula. IR key key.
+Tell me about molecular orbital. IR IR IR key key.
+Describe molecular orbital diagram. IR key key key.
+What is molecule. IR IR key.
+What is monatomic. IR IR key.
+Define natural abundance. IR key key.
+Tell me about neutron. IR IR IR key.
+Describe neutrino. IR key.
+What is nitrogen. IR IR key.
+What is nucleus. IR IR key.
+Define noble gas. IR key key.
+Tell me about non-metal. IR IR IR key.
+Describe nuclear. IR key.
+What is nuclear chemistry. IR IR key key.
+What is nuclear magnetic resonance spectroscopy. IR IR key key key key.
+Define nuclear transmutation. IR key key.
+Tell me about nuclide. IR IR IR key.
+Describe number density. IR key key.
+What is octet rule. IR IR key key.
+What is optical activity. IR IR key key.
+Define orbital hybridisation. IR key key.
+Tell me about order of reaction. IR IR IR key key key.
+Describe organic acid. IR key key.
+What is organic compound. IR IR key key.
+What is organic chemistry. IR IR key key.
+Define organic redox reaction. IR key key key.
+Tell me about osmotic pressure. IR IR IR key key.
+Describe oxidation. IR key.
+What is oxidation state. IR IR key key.
+What is oxidizing agent. IR IR key key.
+Define oxoacid. IR key.
+Tell me about oxygen. IR IR IR key.
+Describe p-block. IR key.
+What is pH. IR IR key.
+What is pascal. IR IR key.
+Define passivation. IR key.
+Tell me about phase. IR IR IR key.
+Describe phase transition. IR key key.
+What is phi bond. IR IR key key.
+What is physical chemistry. IR IR key key.
+Define pi bond. IR key key.
+Tell me about pipette. IR IR IR key.
+Describe plasma. IR key.
+What is period. IR IR key.
+What is periodic table of the elements. IR IR key key key key key.
+Define polarity. IR key.
+Tell me about potential energy. IR IR IR key key.
+Describe photon. IR key.
+What is polyatomic. IR IR key.
+What is polyatomic ion. IR IR key key.
+Define proton. IR key.
+Tell me about protonation. IR IR IR key.
+Describe pyrolysis. IR key.
+What is quantum mechanics. IR IR key key.
+What is quark. IR IR key.
+Define quantum. IR key.
+Tell me about racemate. IR IR IR key.
+Describe radiation. IR key.
+What is radioactive decay. IR IR key key.
+What is Raoult's law. IR IR key key.
+Define rare-earth metal. IR key key.
+Tell me about rate equation. IR IR IR key key.
+Describe rate law. IR key key.
+What is reactant. IR IR key.
+What is reaction mechanism. IR IR key key.
+Define reaction rate. IR key key.
+Tell me about reaction rate constant. IR IR IR key key key.
+Describe reactive intermediate. IR key key.
+What is reactivity series. IR IR key key.
+What is reagent. IR IR key.
+Define redox. IR key.
+Tell me about reducing agent. IR IR IR key key.
+Describe reduction potential. IR key key.
+What is resonance. IR IR key.
+What is retort. IR IR key.
+Define rust. IR key.
+Tell me about s-block. IR IR IR key.
+Describe salt. IR key.
+What is salt bridge. IR IR key key.
+What is saline solution. IR IR key key.
+Define Schrödinger equation. IR key key.
+Tell me about second-order reaction. IR IR IR key key.
+Describe semiconductor. IR key.
+What is serial dilution. IR IR key key.
+What is side chain. IR IR key key.
+Define single bond. IR key key.
+Tell me about skeletal formula. IR IR IR key key.
+Describe sol. IR key.
+What is solid. IR IR key.
+What is solubility. IR IR key.
+Define solute. IR key.
+Tell me about solution. IR IR IR key.
+Describe solvation shell. IR key key.
+What is solvent. IR IR key.
+What is spectrochemistry. IR IR key.
+Define spectroscopy. IR key.
+Tell me about speed of light. IR IR IR key key key.
+Describe standard solution. IR key key.
+What is standard conditions of temperature and pressure. IR IR key key key key key key.
+What is state of matter. IR IR key key key.
+Define stereochemistry. IR key.
+Tell me about stereoisomer. IR IR IR key.
+Describe stoichiometry. IR key.
+What is structural formula. IR IR key key.
+What is structural isomer. IR IR key key.
+Define subatomic particle. IR key key.
+Tell me about sublimation. IR IR IR key.
+Describe substance. IR key.
+What is substituent. IR IR key.
+What is talc. IR IR key.
+Define tarnish. IR key.
+Tell me about temperature. IR IR IR key.
+Describe theoretical yield. IR key key.
+What is theory. IR IR key.
+What is thermal conductivity. IR IR key key.
+Define thermochemistry. IR key.
+Tell me about thermodynamics. IR IR IR key.
+Describe thermodynamic stability. IR key key.
+What is thermometer. IR IR key.
+What is titration. IR IR key.
+Define torr. IR key.
+Tell me about transition metal. IR IR IR key key.
+Describe transuranic element. IR key key.
+What is triple bond. IR IR key key.
+What is triple point. IR IR key key.
+Define Tyndall effect. IR key key.
+Tell me about UN number. IR IR IR key key.
+Describe uncertainty. IR key.
+What is uncertainty principle. IR IR key key.
+What is unified atomic mass unit. IR IR key key key key.
+Define unit cell. IR key key.
+Tell me about unit factor. IR IR IR key key.
+Describe unpaired electron. IR key key.
+What is vacuum flask. IR IR key key.
+What is valence electron. IR IR key key.
+Define valence bond theory. IR key key key.
+Tell me about valency. IR IR IR key.
+Describe van der Waals force. IR key key key key.
+What is van 't Hoff factor. IR IR key key key key.
+What is vapor. IR IR key.
+Define vapor pressure. IR key key.
+Tell me about vaporization. IR IR IR key.
+Describe viscosity. IR key.
+What is volt. IR IR key.
+What is voltmeter. IR IR key.
+Define volume. IR key.
+Tell me about volumetric flask. IR IR IR key key.
+Describe watch glass. IR key key.
+What is water. IR IR key.
+What is wave function. IR IR key key.
+Define work. IR key.
+Tell me about X-ray. IR IR IR key.
+Describe X-ray diffraction. IR key key.
+What is X-ray photoelectron spectroscopy. IR IR key key key.
+What is yield. IR IR key.
+Define zone melting. IR key key.
+Tell me about zwitterion. IR IR IR key.
+Describe zinc. IR key.
+What is ab initio. IR IR key key.
+Define Abbe number. IR key key.
+Tell me about absolute electrode potential. IR IR IR key key key.
+Describe absolute humidity. IR key key.
+What is absolute magnitude. IR IR key key.
+What is absolute motion. IR IR key key.
+Define absolute pressure. IR key key.
+Tell me about absolute scale. IR IR IR key key.
+Describe absolute zero. IR key key.
+What is absorption spectroscopy. IR IR key key.
+What is absorptivity. IR IR key.
+Define accelerating expansion of the universe. IR key key key key key.
+Tell me about acceleration. IR IR IR key.
+Describe acceleration due to gravity. IR key key key key.
+What is accelerometer. IR IR key.
+What is acoustics. IR IR key.
+Define adhesion. IR key.
+Tell me about adiabatic cooling. IR IR IR key key.
+Describe adiabatic heating. IR key key.
+What is aerodynamics. IR IR key.
+What is afocal system. IR IR key key.
+Define air mass. IR key key.
+Tell me about air mass (astronomy). IR IR IR key key key.
+Describe air mass (solar energy). IR key key key key.
+What is albedo. IR IR key.
+What is alloy. IR IR key.
+Define alpha decay. IR key key.
+Tell me about alpha particle. IR IR IR key key.
+Describe alternating current. IR key key.
+What is ammeter. IR IR key.
+What is amorphous solid. IR IR key key.
+Define ampere. IR key.
+Tell me about amplifier. IR IR IR key.
+Describe amplitude. IR key.
+What is angle of incidence. IR IR key key key.
+What is angle of reflection. IR IR key key key.
+Define ångström. IR key.
+Tell me about angular acceleration. IR IR IR key key.
+Describe angular displacement. IR key key.
+What is angular frequency. IR IR key key.
+What is angular momentum. IR IR key key.
+Define angular velocity. IR key key.
+Tell me about anion. IR IR IR key.
+Describe annihilation. IR key.
+What is anode. IR IR key.
+What is antigravity. IR IR key.
+Define antimatter. IR key.
+Tell me about antineutron. IR IR IR key.
+Describe antiparticle. IR key.
+What is antiproton. IR IR key.
+What is antiquark. IR IR key.
+Define arc length. IR key key.
+Tell me about Archimedes' principle. IR IR IR key key.
+Describe area moment of inertia. IR key key key key.
+What is astronomical unit. IR IR key key.
+What is astrophysics. IR IR key.
+Define attenuation coefficient. IR key key.
+Tell me about atom. IR IR IR key.
+Describe atomic line filter. IR key key key.
+What is atomic mass. IR IR key key.
+What is atomic mass unit. IR IR key key key.
+Define atomic number. IR key key.
+Tell me about atomic orbital. IR IR IR key key.
+Describe atomic packing factor. IR key key key.
+What is atomic physics. IR IR key key.
+What is atomic structure. IR IR key key.
+Define atomic weight. IR key key.
+Tell me about audio frequency. IR IR IR key key.
+Describe average speed. IR key key.
+What is Avogadro constant. IR IR key key.
+What is Avogadro's law. IR IR key key.
+Define Avogadro's number. IR key key.
+Tell me about axion. IR IR IR key.
+Describe azimuthal quantum number. IR key key key.
+What is Babinet's principle. IR IR key key.
+What is background radiation. IR IR key key.
+Define ballistics. IR key.
+Tell me about Balmer series. IR IR IR key key.
+Describe barometer. IR key.
+What is baryon. IR IR key.
+What is battery. IR IR key.
+Define beam. IR key.
+Tell me about bending. IR IR IR key.
+Describe bending moment. IR key key.
+What is Bernoulli equation. IR IR key key.
+What is Bernoulli's principle. IR IR key key.
+Define Bessel function. IR key key.
+Tell me about beta decay. IR IR IR key key.
+Describe beta particle. IR key key.
+What is Big Bang. IR IR key key.
+What is binding energy. IR IR key key.
+Define binomial random variable. IR key key key.
+Tell me about biocatalysis. IR IR IR key.
+Describe biophysics. IR key.
+What is black body. IR IR key key.
+What is black-body radiation. IR IR key key.
+Define block and tackle. IR key key key.
+Tell me about Bohr model. IR IR IR key key.
+Describe boiling point. IR key key.
+What is boiling point elevation. IR IR key key key.
+What is Boltzmann constant. IR IR key key.
+Define Bose–Einstein condensate. IR key key.
+Tell me about boson. IR IR IR key.
+Describe Boyle's law. IR key key.
+What is Bra–ket notation. IR IR key key.
+What is Bragg's law. IR IR key key.
+Define bremsstrahlung. IR key.
+Tell me about Brewster's angle. IR IR IR key key.
+Describe british thermal unit. IR key key key.
+What is brittleness. IR IR key.
+What is Brownian motion. IR IR key key.
+Define Bulk modulus. IR key key.
+Tell me about buoyancy. IR IR IR key.
+Describe calculus. IR key.
+What is capacitance. IR IR key.
+What is capacitive reactance. IR IR key key.
+Define Carnot cycle. IR key key.
+Tell me about Cartesian coordinates. IR IR IR key key.
+Describe cathode. IR key.
+What is cathode ray. IR IR key key.
+What is cation. IR IR key.
+Define celestial mechanics. IR key key.
+Tell me about Celsius scale. IR IR IR key key.
+Describe center of curvature. IR key key key.
+What is center of gravity. IR IR key key key.
+What is center of mass. IR IR key key key.
+Define center of pressure. IR key key key.
+Tell me about centigrade. IR IR IR key.
+Describe central force motion. IR key key key.
+What is central limit theorem. IR IR key key key.
+What is centrifugal force. IR IR key key.
+Define centripetal force. IR key key.
+Tell me about cGh physics. IR IR IR key key.
+Describe chain reaction. IR key key.
+What is change of base rule. IR IR key key key key.
+What is charge carrier. IR IR key key.
+Define chemical physics. IR key key.
+Tell me about chromatic aberration. IR IR IR key key.
+Describe circular motion. IR key key.
+What is classical mechanics. IR IR key key.
+What is coefficient of friction. IR IR key key key.
+Define coherence. IR key.
+Tell me about cohesion. IR IR IR key.
+Describe cold fusion. IR key key.
+What is complex harmonic motion. IR IR key key key.
+What is composite particle. IR IR key key.
+Define Compton scattering. IR key key.
+Tell me about concave lens. IR IR IR key key.
+Describe condensation point. IR key key.
+What is condensed matter physics. IR IR key key key.
+What is conservation of momentum. IR IR key key key.
+Define conservation law. IR key key.
+Tell me about constructive interference. IR IR IR key key.
+Describe continuous spectrum. IR key key.
+What is continuum mechanics. IR IR key key.
+What is convection. IR IR key.
+Define convex lens. IR key key.
+Tell me about coulomb. IR IR IR key.
+Describe Coulomb's law. IR key key.
+What is converging lens. IR IR key key.
+What is cosmic background radiation. IR IR key key key.
+Define covalent bond. IR key key.
+Tell me about creep. IR IR IR key.
+Describe crest. IR key.
+What is crest factor. IR IR key key.
+What is critical angle. IR IR key key.
+Define critical mass. IR key key.
+Tell me about Curie temperature. IR IR IR key key.
+Describe current density. IR key key.
+What is curvilinear motion. IR IR key key.
+What is cyclotron. IR IR key.
+Define Dalton's law. IR key key.
+Tell me about damped vibration. IR IR IR key key.
+Describe damping. IR key.
+What is Darcy–Weisbach equation. IR IR key key.
+What is dark energy. IR IR key key.
+Define dark matter. IR key key.
+Tell me about DC motor. IR IR IR key key.
+Describe decibel. IR key.
+What is definite integral. IR IR key key.
+What is deflection. IR IR key.
+Define deformation. IR key.
+Tell me about density. IR IR IR key.
+Describe derivative. IR key.
+What is desert. IR IR key.
+What is destructive interference. IR IR key key.
+Define diamagnetism. IR key.
+Tell me about dielectric. IR IR IR key.
+Describe diffraction. IR key.
+What is direct current. IR IR key key.
+What is dispersion. IR IR key.
+Define displacement (fluid). IR key key.
+Tell me about displacement (vector). IR IR IR key key.
+Describe distance. IR key.
+What is drift velocity. IR IR key key.
+What is Doppler effect. IR IR key key.
+Define drag. IR key.
+Tell me about ductility. IR IR IR key.
+Describe dynamics. IR key.
+What is dyne. IR IR key.
+What is econophysics. IR IR key.
+Define elastic collision. IR key key.
+Tell me about elastic energy. IR IR IR key key.
+Describe elastic instability. IR key key.
+What is elastic modulus. IR IR key key.
+What is elasticity. IR IR key.
+Define electric charge. IR key key.
+Tell me about electric circuit. IR IR IR key key.
+Describe electric current. IR key key.
+What is electric displacement field. IR IR key key key.
+What is electric field. IR IR key key.
+Define electric field gradient. IR key key key.
+Tell me about electric field intensity. IR IR IR key key key.
+Describe electric generator. IR key key.
+What is electric motor. IR IR key key.
+What is electric potential. IR IR key key.
+Define electric power. IR key key.
+Tell me about electrical conductor. IR IR IR key key.
+Describe electrical insulator. IR key key.
+What is electrical potential energy. IR IR key key key.
+What is electrical and electronics engineering. IR IR key key key key.
+Define electrical network. IR key key.
+Tell me about electrical resistance. IR IR IR key key.
+Describe electricity. IR key.
+What is electro-optic effect. IR IR key key.
+What is electrochemical cell. IR IR key key.
+Define electrodynamics. IR key.
+Tell me about electrolytic cell. IR IR IR key key.
+Describe electromagnet. IR key.
+What is electromagnetic field. IR IR key key.
+What is electromagnetic induction. IR IR key key.
+Define electromagnetic radiation. IR key key.
+Tell me about electromagnetic spectrum. IR IR IR key key.
+Describe electromagnetic wave equation. IR key key key.
+What is electromagnetism. IR IR key.
+What is electromechanics. IR IR key.
+Define electromotive force. IR key key.
+Tell me about electron. IR IR IR key.
+Describe electron capture. IR key key.
+What is electron cloud. IR IR key key.
+What is electron pair. IR IR key key.
+Define electron paramagnetic resonance. IR key key key.
+Tell me about electronvolt. IR IR IR key.
+Describe electronegativity. IR key.
+What is electronics. IR IR key.
+What is electrostatics. IR IR key.
+Define electrostriction. IR key.
+Tell me about elementary charge. IR IR IR key key.
+Describe elementary particle. IR key key.
+What is emission spectrum. IR IR key key.
+What is emissivity. IR IR key.
+Define energy. IR key.
+Tell me about energy level. IR IR IR key key.
+Describe endothermic. IR key.
+What is engineering physics. IR IR key key.
+What is enthalpy. IR IR key.
+Define entropy. IR key.
+Tell me about equilibrant force. IR IR IR key key.
+Describe equipartition. IR key.
+What is escape velocity. IR IR key key.
+What is excited state. IR IR key key.
+Define exothermic. IR key.
+Tell me about experimental physics. IR IR IR key key.
+Describe farad. IR key.
+What is falling bodies. IR IR key key.
+What is faraday. IR IR key.
+Define Faraday constant. IR key key.
+Tell me about Fermat's principle. IR IR IR key key.
+Describe Fermi surface. IR key key.
+What is fermion. IR IR key.
+What is ferrimagnetism. IR IR key.
+Define ferromagnetism. IR key.
+Tell me about field line. IR IR IR key key.
+Describe FIRST. IR key.
+What is first law of thermodynamics. IR IR key key key key.
+What is fission. IR IR key.
+Define flavour. IR key.
+Tell me about fluid. IR IR IR key.
+Describe fluid mechanics. IR key key.
+What is fluid physics. IR IR key key.
+What is fluid statics. IR IR key key.
+Define fluorescence. IR key.
+Tell me about flux. IR IR IR key.
+Describe flux density. IR key key.
+What is focal length. IR IR key key.
+What is focus. IR IR key.
+Define force. IR key.
+Tell me about force carrier. IR IR IR key key.
+Describe frame of reference. IR key key key.
+What is Fraunhofer lines. IR IR key key.
+What is free body diagram. IR IR key key key.
+Define frequency. IR key.
+Tell me about frequency modulation. IR IR IR key key.
+Describe free fall. IR key key.
+What is freezing point. IR IR key key.
+What is friction. IR IR key.
+Define function. IR key.
+Tell me about fundamental forces. IR IR IR key key.
+Describe fundamental frequency. IR key key.
+What is fundamental theorem of calculus. IR IR key key key key.
+What is fusion. IR IR key.
+Define gamma ray. IR key key.
+Tell me about gas. IR IR IR key.
+Describe general relativity. IR key key.
+What is geophysics. IR IR key.
+What is gluon. IR IR key.
+Define Graham's law of diffusion. IR key key key key.
+Tell me about gravitation. IR IR IR key.
+Describe gravitational constant. IR key key.
+What is gravitational energy. IR IR key key.
+What is gravitational field. IR IR key key.
+Define gravitational potential. IR key key.
+Tell me about gravitational wave. IR IR IR key key.
+Describe graviton. IR key.
+What is gravity. IR IR key.
+What is ground. IR IR key.
+Define ground reaction force. IR key key key.
+Tell me about ground state. IR IR IR key key.
+Describe group velocity. IR key key.
+What is hadron. IR IR key.
+What is half-life. IR IR key.
+Define Hamilton's principle. IR key key.
+Tell me about Hamiltonian mechanics. IR IR IR key key.
+Describe harmonic mean. IR key key.
+What is heat. IR IR key.
+What is heat transfer. IR IR key key.
+Define Helmholtz free energy. IR key key key.
+Tell me about Henderson–Hasselbalch equation. IR IR IR key key.
+Describe Henry's law. IR key key.
+What is hertz. IR IR key.
+What is Higgs boson. IR IR key key.
+Define homeokinetics. IR key.
+Tell me about horsepower. IR IR IR key.
+Describe Huygens–Fresnel principle. IR key key.
+What is hydrostatics. IR IR key.
+What is ice point. IR IR key key.
+Define impedance. IR key.
+Tell me about indefinite integral. IR IR IR key key.
+Describe inductance. IR key.
+What is infrasound. IR IR key.
+What is inertia. IR IR key.
+Define inductive reactance. IR key key.
+Tell me about integral. IR IR IR key.
+Describe integral transform. IR key key.
+What is International System of Units. IR IR key key key key.
+What is invariant mass. IR IR key key.
+Define ion. IR key.
+Tell me about ionic bond. IR IR IR key key.
+Describe ionization. IR key.
+What is ionization chamber. IR IR key key.
+What is ionizing radiation. IR IR key key.
+Define isotope. IR key.
+Tell me about Josephson effect. IR IR IR key key.
+Describe joule. IR key.
+What is Kelvin. IR IR key.
+What is kinematics. IR IR key.
+Define kinetic energy. IR key key.
+Tell me about Kirchhoff's circuit laws. IR IR IR key key key.
+Describe Kirchhoff's equations. IR key key.
+What is Lagrangian mechanics. IR IR key key.
+What is laminar flow. IR IR key key.
+Define Laplace transform. IR key key.
+Tell me about Laplace–Runge–Lenz vector. IR IR IR key key.
+Describe laser. IR key.
+What is law of universal gravitation. IR IR key key key key.
+What is LC circuit. IR IR key key.
+Define Lenz's law. IR key key.
+Tell me about lepton. IR IR IR key.
+Describe lever. IR key.
+What is light. IR IR key.
+What is linear actuator. IR IR key key.
+Define linear algebra. IR key key.
+Tell me about line of force. IR IR IR key key key.
+Describe linear elasticity. IR key key.
+What is Liouville's theorem. IR IR key key.
+What is liquid. IR IR key.
+Define liquid crystal. IR key key.
+Tell me about longitudinal wave. IR IR IR key key.
+Describe M-theory. IR key.
+What is Mach number. IR IR key key.
+What is machine. IR IR key.
+Define machine element. IR key key.
+Tell me about Maclaurin series. IR IR IR key key.
+Describe magnetic field. IR key key.
+What is magnetism. IR IR key.
+What is magnetostatics. IR IR key.
+Define mass. IR key.
+Tell me about mass balance. IR IR IR key key.
+Describe mass density. IR key key.
+What is mass flux. IR IR key key.
+What is mass moment of inertia. IR IR key key key key.
+Define mass number. IR key key.
+Tell me about mass spectrometry. IR IR IR key key.
+Describe material properties. IR key key.
+What is materials science. IR IR key key.
+What is mathematical physics. IR IR key key.
+Define mathematics. IR key.
+Tell me about matrix. IR IR IR key.
+Describe matter. IR key.
+What is Maxwell's equations. IR IR key key.
+What is measure of central tendency. IR IR key key key key.
+Define mechanical energy. IR key key.
+Tell me about mechanical filter. IR IR IR key key.
+Describe mechanical equilibrium. IR key key.
+What is mechanical wave. IR IR key key.
+What is mechanics. IR IR key.
+Define melting. IR key.
+Tell me about meson. IR IR IR key.
+Describe modulus of elasticity. IR key key key.
+What is molar concentration. IR IR key key.
+What is molar mass. IR IR key key.
+Define molecule. IR key.
+Tell me about molecular physics. IR IR IR key key.
+Describe moment. IR key.
+What is moment of inertia. IR IR key key key.
+What is monochromatic light. IR IR key key.
+Define motion. IR key.
+Tell me about muon. IR IR IR key.
+Describe nanoengineering. IR key.
+What is nanotechnology. IR IR key.
+What is Navier–Stokes equations. IR IR key key.
+Define neurophysics. IR key.
+Tell me about neutrino. IR IR IR key.
+Describe neutron. IR key.
+What is neutron cross-section. IR IR key key.
+What is newton. IR IR key.
+Define Newton's laws of motion. IR key key key key.
+Tell me about Newton's law of universal gravitation. IR IR IR key key key key key.
+Describe Newtonian fluid. IR key key.
+What is Newtonian mechanics. IR IR key key.
+What is normal force. IR IR key key.
+Define th root. IR key key.
+Tell me about nuclear force. IR IR IR key key.
+Describe nuclear physics. IR key key.
+What is nuclear reaction. IR IR key key.
+What is nuclear transmutation. IR IR key key.
+Define nucleon. IR key.
+Tell me about nucleus. IR IR IR key.
+Describe nuclide. IR key.
+What is Ohm. IR IR key.
+What is Ohm's law. IR IR key key.
+Define optical tweezers. IR key key.
+Tell me about optically detected magnetic resonance. IR IR IR key key key key.
+Describe optics. IR key.
+What is paraffin. IR IR key.
+What is parallel circuit. IR IR key key.
+Define parity. IR key.
+Tell me about particle. IR IR IR key.
+Describe particle accelerator. IR key key.
+What is particle displacement. IR IR key key.
+What is particle physics. IR IR key key.
+Define Pascal's law. IR key key.
+Tell me about Pauli exclusion principle. IR IR IR key key key.
+Describe pendulum. IR key.
+What is periodic table of the elements. IR IR key key key key key.
+What is phase (matter). IR IR key key.
+Define phase (waves). IR key key.
+Tell me about phase equilibrium. IR IR IR key key.
+Describe phenomenology. IR key.
+What is phosphorescence. IR IR key.
+What is photoelectric effect. IR IR key key.
+Define photon. IR key.
+Tell me about photonics. IR IR IR key.
+Describe physical chemistry. IR key key.
+What is physical constant. IR IR key key.
+What is physical quantity. IR IR key key.
+Define physics. IR key.
+Tell me about piezoelectricity. IR IR IR key.
+Describe pion. IR key.
+What is Planck constant. IR IR key key.
+What is Planck units. IR IR key key.
+Define Planck's law. IR key key.
+Tell me about plasma. IR IR IR key.
+Describe plasma physics. IR key key.
+What is plasticity. IR IR key.
+What is pneumatics. IR IR key.
+Define positron. IR key.
+Tell me about potential energy. IR IR IR key key.
+Describe power. IR key.
+What is pressure. IR IR key.
+What is probability. IR IR key.
+Define probability distribution. IR key key.
+Tell me about probability theory. IR IR IR key key.
+Describe proton. IR key.
+What is psi particle. IR IR key key.
+What is pulley. IR IR key.
+Define pulse. IR key.
+Tell me about pulse wave. IR IR IR key key.
+Describe quantization. IR key.
+What is quantum. IR IR key.
+What is quantum chromodynamics. IR IR key key.
+Define quantum electrodynamics. IR key key.
+Tell me about quantum field theory. IR IR IR key key key.
+Describe quantum gravity. IR key key.
+What is quantum mechanics. IR IR key key.
+What is quantum number. IR IR key key.
+Define quantum physics. IR key key.
+Tell me about quantum state. IR IR IR key key.
+Describe quark. IR key.
+What is quasiparticle. IR IR key.
+What is radiant energy. IR IR key key.
+Define radiation. IR key.
+Tell me about radioactive decay. IR IR IR key key.
+Describe radionuclide. IR key.
+What is radius of curvature. IR IR key key key.
+What is redshift. IR IR key.
+Define refraction. IR key.
+Tell me about refractive index. IR IR IR key key.
+Describe relative atomic mass. IR key key key.
+What is relativistic mechanics. IR IR key key.
+What is rigid body. IR IR key key.
+Define rotational energy. IR key key.
+Tell me about rotational speed. IR IR IR key key.
+Describe Rydberg formula. IR key key.
+What is scalar. IR IR key.
+What is scattering. IR IR key.
+Define science. IR key.
+Tell me about screw. IR IR IR key.
+Describe second law of thermodynamics. IR key key key key.
+What is Seebeck effect. IR IR key key.
+What is series circuit. IR IR key key.
+Define shadow matter. IR key key.
+Tell me about shear modulus. IR IR IR key key.
+Describe shear strength. IR key key.
+What is shear stress. IR IR key key.
+What is shortwave radiation. IR IR key key.
+Define Schrödinger equation. IR key key.
+Tell me about simple harmonic motion. IR IR IR key key key.
+Describe simple machine. IR key key.
+What is siphon. IR IR key.
+What is Snell's law. IR IR key key.
+Define solar cell. IR key key.
+Tell me about solid. IR IR IR key.
+Describe solid mechanics. IR key key.
+What is solid-state physics. IR IR key key.
+What is solubility. IR IR key.
+Define sound. IR key.
+Tell me about special relativity. IR IR IR key key.
+Describe specific activity. IR key key.
+What is speed. IR IR key.
+What is speed of light. IR IR key key key.
+Define speed of sound. IR key key key.
+Tell me about spherical aberration. IR IR IR key key.
+Describe spin quantum number. IR key key key.
+What is stable isotope ratio. IR IR key key key.
+What is stable nuclide. IR IR key key.
+Define standard atomic weight. IR key key key.
+Tell me about Standard Model. IR IR IR key key.
+Describe standing wave. IR key key.
+What is state of matter. IR IR key key key.
+What is statics. IR IR key.
+Define statistical mechanics. IR key key.
+Tell me about stiffness. IR IR IR key.
+Describe strain. IR key.
+What is strain hardening. IR IR key key.
+What is strength of materials. IR IR key key key.
+Define stress. IR key.
+Tell me about stress–strain curve. IR IR IR key key.
+Describe string duality. IR key key.
+What is string theory. IR IR key key.
+What is structural load. IR IR key key.
+Define subatomic particle. IR key key.
+Tell me about sublimation. IR IR IR key.
+Describe superconductivity. IR key.
+What is superconductor. IR IR key.
+What is superhard material. IR IR key key.
+Define superposition principle. IR key key.
+Tell me about supersymmetry. IR IR IR key.
+Describe surface tension. IR key key.
+What is temperature. IR IR key.
+What is tensile modulus. IR IR key key.
+Define tensile strength. IR key key.
+Tell me about tesla. IR IR IR key.
+Describe test particle. IR key key.
+What is theoretical physics. IR IR key key.
+What is theory of everything. IR IR key key key.
+Define theory of relativity. IR key key key.
+Tell me about thermal conduction. IR IR IR key key.
+Describe thermal equilibrium. IR key key.
+What is thermal radiation. IR IR key key.
+What is thermionic emission. IR IR key key.
+Define thermodynamic equilibrium. IR key key.
+Tell me about thermodynamic free energy. IR IR IR key key key.
+Describe thermodynamics. IR key.
+What is thermometer. IR IR key.
+What is third law of thermodynamics. IR IR key key key key.
+Define torque. IR key.
+Tell me about total internal reflection. IR IR IR key key key.
+Describe toughness. IR key.
+What is trajectory. IR IR key.
+What is transducer. IR IR key.
+Define transmission medium. IR key key.
+Tell me about transverse wave. IR IR IR key key.
+Describe trigonometry. IR key.
+What is trimean. IR IR key.
+What is triple point. IR IR key key.
+Define truncated mean. IR key key.
+Tell me about uncertainty principle. IR IR IR key key.
+Describe uniform motion. IR key key.
+What is uniform circular motion. IR IR key key key.
+What is unit vector. IR IR key key.
+Define utility frequency. IR key key.
+Tell me about vacuum. IR IR IR key.
+Describe valence electron. IR key key.
+What is valence shell. IR IR key key.
+What is valley of stability. IR IR key key key.
+Define Van de Graaff generator. IR key key key key.
+Tell me about variable capacitor. IR IR IR key key.
+Describe variable resistor. IR key key.
+What is vector. IR IR key.
+What is vector space. IR IR key key.
+Define velocity. IR key.
+Tell me about virtual image. IR IR IR key key.
+Describe virtual particle. IR key key.
+What is viscoelasticity. IR IR key.
+What is viscosity. IR IR key.
+Define visible light. IR key key.
+Tell me about volt. IR IR IR key.
+Describe Volta potential. IR key key.
+What is voltage. IR IR key.
+What is voltmeter. IR IR key.
+Define volt per meter. IR key key key.
+Tell me about volume. IR IR IR key.
+Describe W and Z bosons. IR key key key key.
+What is watt. IR IR key.
+What is wave. IR IR key.
+Define wave equation. IR key key.
+Tell me about wave function. IR IR IR key key.
+Describe wave function collapse. IR key key key.
+What is wave–particle duality. IR IR key key.
+What is wavelength. IR IR key.
+Define weak interaction. IR key key.
+Tell me about weber. IR IR IR key.
+Describe wedge. IR key.
+What is weight. IR IR key.
+What is wheel and axle. IR IR key key key.
+Define wind. IR key.
+Tell me about wind shear. IR IR IR key key.
+Describe work. IR key.
+What is work function. IR IR key key.
+What is X-ray. IR IR key.
+Define Young’s modulus. IR key key.
+Tell me about Zeeman effect. IR IR IR key key.
+What is Mathematics. IR IR key.
+Define ∂. IR key.
+Tell me about Base (exponentiation). IR IR IR key key.
+Describe Canonical form. IR key key.
+What is Definition. IR IR key.
+What is Equidimensionality. IR IR key.
+Define Field, power, and root-power quantities. IR key key key key key.
+Tell me about Generalized inverse. IR IR IR key key.
+Describe Hand-waving. IR key.
+What is If and only if. IR IR key key key key.
+What is Left and right (algebra). IR IR key key key key.
+Define Mathematical beauty. IR key key.
+Tell me about N-topological space. IR IR IR key key.
+Describe Order (mathematics). IR key key.
+What is Parameter. IR IR key.
+What is QED. IR IR key.
+Define Reduction (mathematics). IR key key.
+Tell me about Scope (logic). IR IR IR key key.
+Describe TC Mits. IR key key.
+What is Undefined (mathematics). IR IR key key.
+What is Well-defined. IR IR key.

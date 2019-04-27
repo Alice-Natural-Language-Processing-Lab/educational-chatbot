@@ -15,6 +15,9 @@ from keras.layers import Dense, LSTM, Bidirectional, Embedding, Dropout
 from keras.callbacks import ModelCheckpoint
 import numpy as np
 import sys
+import ner
+import spacy
+import datetime
 data = pd.read_csv('/home/lavina/Desktop/educational-chatbot/python/intent.csv')
 # print(data)
 target = data['Type']
@@ -80,9 +83,9 @@ def create_model(vocab_size, max_length):
 model = create_model(vocab_size, max_length(dataCleanedVector))
 
 model.compile(loss = "categorical_crossentropy", optimizer = "adam", metrics = ["accuracy"])
-model.summary()
+# model.summary()
 
-hist = model.fit(train_X, train_Y, epochs = 10, batch_size = 2)
+hist = model.fit(train_X, train_Y, epochs =3, batch_size = 2)
 
 
 def predictions(text):
@@ -114,8 +117,8 @@ def get_final_output(pred, classes):
     classes = classes[ids]
     predictions = -np.sort(-predictions)
 
-    for i in range(pred.shape[1]):
-        print("%s has confidence = %s" % (classes[i], (predictions[i])))
+    # for i in range(pred.shape[1]):
+    #     print("%s has confidence = %s" % (classes[i], (predictions[i])))
     return classes[0]
 
 
@@ -123,4 +126,17 @@ def get_final_output(pred, classes):
 print(sys.argv)
 pred =  predictions(sys.argv[1])
 ans = get_final_output(pred, unique_intent)
-
+if ans == 'Query':
+    ner.test(sys.argv[1])
+if ans == 'Reminder':
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(sys.argv[1])
+    print('DOc is  ', doc)
+    if 'today' in nltk.word_tokenize(sys.argv[1]):
+        print(datetime.datetime.today())
+    if 'tomorrow' in nltk.word_tokenize(sys.argv[1]):
+        print(datetime.datetime.today() + datetime.timedelta(days=1))
+    if 'yesterday' in nltk.word_tokenize(sys.argv[1]):
+        print(datetime.datetime.today() - datetime.timedelta(days=1))
+    print([(X.text, X.label_) for X in doc.ents])
+print(ans)
